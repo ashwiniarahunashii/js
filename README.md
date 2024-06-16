@@ -1,6 +1,6 @@
-# My Java script
+# JS practice exercises
 
-girt
+
 <!-- while creating - only once -->
 <!-- git init -->
 <!-- git add A- -->
@@ -12,4 +12,4 @@ girt
 <!-- after creating -->
 <!-- git add -A -->
  <!--git commit -m "name"  -->
-<!-- git push -->git commit -m ""
+<!-- git push -->
